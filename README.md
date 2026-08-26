@@ -1,4 +1,4 @@
-# PA1493 Software Developemnt Project (Distance)
+# PA1493 Software Development Project (Distance)
 
 ## How to Use This Template
 
