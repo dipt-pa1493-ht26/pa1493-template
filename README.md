@@ -1,17 +1,5 @@
 # PA1493 Software Development Project (Distance) HT26
 
-## How to Use This Template
-
-1. Click **"Use this template"** above to create your own repository inside the **dipt-pa1493-ht26** organisation.
-2. Set visibility to **Private**.
-3. Name it: **pa1493-\<your BTH email prefix\>-\<project abbreviation\>-\<customer code\>**
-   Example: `pa1493-zxcv25-INVT-ACM`
-   Your BTH email prefix is the part before `@` in your BTH email (e.g. `zxcv25` for `zxcv25@student.bth.se`). Your project abbreviation and customer code will be shared on Canvas by the start of Week 36.
-4. Once your repository is created, **delete this "How to Use This Template" section** and replace everything below it with your own project description.
-5. Set up your backlog as Issues and your Project board, following the rules further down this README.
-
-Your Technical Reviewer already has read access to this repository through the organisation's review team. You do not need to add anyone manually.
-
 ---
 
 ## Project Description
