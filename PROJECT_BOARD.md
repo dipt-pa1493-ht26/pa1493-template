@@ -1,25 +1,36 @@
-# Setting Up Your Project Board
+# Your Project Board
 
-Your repository does not come with a Project board — you need to create one yourself, early in the course. This board **is your backlog**: the Issues you write hold the description of each user story, feature, or task, but the board is where you track priority, effort, and which sprint each item belongs to.
+Your Project board has already been created and linked to this repository — you don't need to create one yourself. You already have Write access, and your Technical Reviewer already has Read access.
 
-You'll need a working board by the end of Sprint 1 — **Status Report 3 (due Fri 25 Sep, w39) asks for your Project Board**, so don't leave this until the last minute.
+**⚠️ Do not rename your board.** It's automatically tracked by name — renaming it will break that tracking and cause a mess to untangle later. Leave the title exactly as it is.
+
+You'll need your board fully set up by the end of Sprint 1 — **Status Report 3 (due Fri 25 Sep, w39) asks for your Project Board**, so don't leave this until the last minute.
 
 ---
 
-## Step 1: Write Your Issues First
+## Step 1: Confirm Your Default Repository
 
-Before setting up the board, it's easiest to first create your Issues — every user story, feature, and task, using the templates in this repo. Once you have Issues written, you can **import them all into your board at once**, instead of adding them one by one.
+Do this once, right away:
 
-## Step 2: Create the Board (Table view)
+1. Open your board (from your repo's **Projects** tab).
+2. Click the **...** menu (top-right) → **Settings**.
+3. Under **Default repository**, select your own repository (it's the only one linked, so there's no ambiguity).
+4. Click **Save changes**.
 
-For your first time using GitHub Projects, start with the **Table** view — it looks and works like a spreadsheet, and matches the backlog table format from Artefact 01.
+Once this is set, any new item you type directly into the board becomes a real Issue in your repository automatically — not just a placeholder "draft" that goes nowhere.
 
-1. In your repository, go to the **Projects** tab → **New project**.
-2. Choose the **Table** template.
-3. Give it a name, e.g. "Backlog."
-4. Click **+ Add item** at the bottom of the table, then choose **Add item from repository**. Select your Issues — you can select several at once — and they'll all be imported as rows on the board automatically.
+## Step 2: Write Your Issues First
 
-## Step 3: Set Up the Three Fields
+Before filling in the board, it's easiest to create your Issues first — every user story, feature, and task, using the templates in this repo. Once you have Issues written, you can **import them all into your board at once**, instead of adding them one by one.
+
+## Step 3: Import Your Issues
+
+1. In the table, click **+ Add item** at the bottom, then choose **Add item from repository**.
+2. Select your Issues — you can select several at once — and they'll be imported as rows automatically.
+
+Alternatively, once Step 1 is done, you can also just type a new item's title directly into the board — it'll be created as a real Issue in your repo right away, no separate import step needed.
+
+## Step 4: Set Up the Three Fields
 
 You only need to do this once. In the table, click the **+** at the end of the column headers to add a new field, and add these three:
 
@@ -29,10 +40,10 @@ You only need to do this once. In the table, click the **+** at the end of the c
 | **Estimated Effort** | Number | *(effort in hours)* |
 | **Sprint** | Single select | `1`, `2`, `3` |
 
-## Step 4: Fill In the Fields for Each Item
+## Step 5: Fill In the Fields for Each Item
 
-- For each item now on the board, fill in **Priority**, **Estimated Effort**, and **Sprint**.
-- Keep the board updated throughout the course. As you create new Issues later, import them the same way. As you complete an item, mark its Issue as done.
+- For each item on the board, fill in **Priority**, **Estimated Effort**, and **Sprint**.
+- Keep the board updated throughout the course. As you create new Issues later, add them the same way. As you complete an item, mark its Issue as done.
 
 ---
 
